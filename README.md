@@ -1,4 +1,4 @@
-# Internship_certificate -
+# Internship_certificate :-
 🌟 “Every expert was once a beginner who chose not to give up.” 💡
 I’m happy to share that I’ve successfully completed my 1-month internship at Unified Mentor Private Limited 👍 ! 🎉
  This experience has been a great boost to my Data Analytics journey, filled with practical learning, real-world projects, and continuous skill development.
