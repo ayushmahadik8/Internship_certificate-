@@ -13,6 +13,6 @@ During this internship, I worked on:
 🔹 Documenting and visualizing insights using Jupyter Notebook
 
 I’m truly grateful to the mentors and team at Unified Mentor for their guidance and support throughout the internship. 🙏
-Excited to apply these skills to future projects and continue growing as a data analyst! 🚀
+Excited to apply these skills to future projects and continue growing as a data analyst!! 🚀
 
 [Certificate.pdf](https://github.com/user-attachments/files/20270655/Certificate.pdf)
