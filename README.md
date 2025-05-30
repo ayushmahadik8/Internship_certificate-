@@ -6,7 +6,7 @@ During this internship, I worked on :
 
 🔹 Cleaning and analyzing data using Python (Pandas, Matplotlib)
 
-🔹 Creating interactive reports and dashboards in Power BI
+🔹 Creating interactive reports and dashboards in Power BI.
 
 🔹 Writing optimized SQL queries for data extraction and reporting
 
