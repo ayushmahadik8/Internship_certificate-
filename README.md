@@ -8,7 +8,7 @@ During this internship, I worked on :
 
 🔹 Creating interactive reports and dashboards in Power BI.
 
-🔹 Writing optimized SQL queries for data extraction and reporting
+🔹 Writing optimized SQL queries for data extraction and reporting.
 
 🔹 Documenting and visualizing insights using Jupyter Notebook.
 
